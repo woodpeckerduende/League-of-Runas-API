@@ -1,0 +1,5 @@
+package com.example.League.of.Runes.service;
+
+public interface BalanceamentoService {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+}
