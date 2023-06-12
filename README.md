@@ -8,4 +8,4 @@
           - controller
           - model
           - repository
-          - service
+          - services
